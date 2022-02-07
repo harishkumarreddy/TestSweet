@@ -1,0 +1,25 @@
+{
+  "name": "testsweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "bin": {
+    "testsweet": "./main.js"
+  },
+  "keywords": [
+    "TestSweet",
+    "unit testing",
+    "Angular Unit test",
+    "React Unit test",
+    "Express Unit test"
+  ],
+  "author": "Harishkumar",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}

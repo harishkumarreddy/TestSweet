@@ -1,0 +1,5 @@
+{
+    "targetFramework": "plainJS",
+    "source": "./target/*.js",
+    "sync": "./target/*.spec.js"
+}
