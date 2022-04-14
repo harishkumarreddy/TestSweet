@@ -20,6 +20,15 @@
   "author": "Harishkumar",
   "license": "ISC",
   "dependencies": {
-    "n-readlines": "^1.0.1"
+    "@angular/cli": "^13.2.3",
+    "@faker-js/faker": "^6.0.0-alpha.7",
+    "chalk": "^2.4.1",
+    "cli-spinners": "^2.6.1",
+    "commander": "^9.0.0",
+    "esprima": "^4.0.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "n-readlines": "^1.0.1",
+    "yargs": "^17.3.1"
   }
 }

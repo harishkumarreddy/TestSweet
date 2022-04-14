@@ -1,6 +1,6 @@
 {
-    "framework": "Jasmin",
-    "language": "TypeScript",
+    "framework": "PHPUnit",
+    "language": "PHP",
     "source-path": "src",
     "source-ext": ".ts",
     "testfile-ext": ".spec.ts"

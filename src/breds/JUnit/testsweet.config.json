@@ -1,0 +1,7 @@
+{
+    "framework": "JUnit",
+    "language": "Java",
+    "source-path": "src",
+    "source-ext": ".java",
+    "testfile-ext": ".test.java"
+}

@@ -1,0 +1,7 @@
+{
+    "framework": "pyUnit",
+    "language": "Python",
+    "source-path": "src",
+    "source-ext": ".py",
+    "testfile-ext": ".test.py"
+}

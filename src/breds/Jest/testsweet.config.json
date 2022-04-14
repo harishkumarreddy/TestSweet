@@ -1,0 +1,7 @@
+{
+    "framework": "Jest",
+    "language": "JavaScript",
+    "source-path": "src",
+    "source-ext": ".js",
+    "testfile-ext": ".spec.js"
+}
